@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/wolfcomp/DeepDungeonDex.git"
+owners = [ "wolfcomp" ]
+project_path = "DeepDungeonDex"
+commit = "2db5e2e24ca938a4e3c07fcb69c8c56e632d9d2a"
+changelog = "### 2.6.1 (2023-08-22)\n\n\n### Bug Fixes\n\n* add config window button function to `/xlplugins` (d308f5a)\n* add description to enable floor command (1f94415)"
+version = "2.6.1"
